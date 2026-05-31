@@ -2,7 +2,7 @@
 
 I'm an aspiring Data Analyst who genuinely enjoys pulling apart messy 
 datasets and finding the story inside them. I work with Python, SQL, 
-and Power BI — and I'm always building something new to get better.
+and Power BI, Tableau — and I'm always building something new to get better.
 
 I'm currently looking for **data analyst internships** where I can 
 contribute, learn fast, and do real work.
