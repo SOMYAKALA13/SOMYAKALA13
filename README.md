@@ -1,9 +1,7 @@
 # Hey, I'm Somya 👋
-
 I'm an aspiring Data Analyst who genuinely enjoys pulling apart messy 
 datasets and finding the story inside them. I work with Python, SQL, 
 and Power BI, Tableau — and I'm always building something new to get better.
-
 I'm currently looking for **data analyst internships or jobs** where I can 
 contribute, learn fast, and do real work.
 
@@ -43,6 +41,22 @@ customers consistently spent more.
 
 ---
 
+### 🛒 Flipkart Sales Analysis
+> *Python · MySQL · Power BI*
+
+End-to-end sales analysis on 1,000+ Flipkart orders. Cleaned and explored 
+the data in Python using Pandas and Matplotlib, ran 10+ business queries 
+in MySQL using window functions and aggregations, then built an interactive 
+Power BI dashboard to surface revenue trends, top products, and regional insights.
+
+**What I found:** Electronics led all categories in revenue, UPI was the 
+most preferred payment method, July showed peak monthly sales, and online 
+customers gave consistently higher ratings than retail or wholesale segments.
+
+📁 [View Project](https://github.com/SOMYAKALA13/flipkart-sales-analysis)
+
+---
+
 ### 🏠 Airbnb Seattle — Listings & Revenue Dashboard
 > *Tableau*
 
@@ -76,6 +90,7 @@ customers and global sales distribution across countries.
 📁 [View Project](https://github.com/SOMYAKALA13/retail-analysis)
 
 ---
+
 ### 🧹 SQL Data Cleaning — Tech Layoffs
 > *MySQL*
 
@@ -91,7 +106,6 @@ any dashboard or insight is possible — and most analysts skip showing it.
 ---
 
 ## 📚 Currently Learning
-
 - Advanced SQL (query optimization, stored procedures)
 - Statistics for data analysis
 - Building cleaner, more insightful dashboards in Power BI
@@ -99,7 +113,6 @@ any dashboard or insight is possible — and most analysts skip showing it.
 ---
 
 ## 📫 Let's Connect
-
 If you're looking for someone eager to learn, work hard, and contribute 
 — I'd love to hear from you.
 
