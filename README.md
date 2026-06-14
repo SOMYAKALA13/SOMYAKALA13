@@ -1,19 +1,38 @@
-# Hey, I'm Somya 👋
-I'm an aspiring Data Analyst who genuinely enjoys pulling apart messy 
-datasets and finding the story inside them. I work with Python, SQL, 
-and Power BI, Tableau — and I'm always building something new to get better.
-I'm currently looking for **data analyst internships or jobs** where I can 
+# Hi, I'm Somya Kala 👋
+
+Aspiring Data Analyst who loves digging into messy datasets and finding the 
+story inside them. I work across **Python, SQL, Power BI, and Tableau** — 
+and I'm always building something new to sharpen my skills.
+
+Currently looking for **Data Analyst internships/roles** where I can 
 contribute, learn fast, and do real work.
+
 ---
-## 🛠 What I Work With
+
+## 🛠 Tech Stack
+
 **Languages & Querying**
-`Python` `SQL (MySQL)`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 **Libraries**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
-**Visualization**
-`Power BI` `Tableau` `Excel`
-**Other**
-`Jupyter Notebook` `SQLAlchemy` `Git`
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Visualization & Tools**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 ---
 ## 📂 Projects
 ### 🛍️ Customer Behavior Analysis
@@ -80,5 +99,6 @@ counties generally showing lower emissions per person.
 ## 📫 Let's Connect
 If you're looking for someone eager to learn, work hard, and contribute 
 — I'd love to hear from you.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-kala-235b99220/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalasomya956@gmail.com)
